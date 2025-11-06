@@ -17,13 +17,13 @@ public class Vid1_10_ConceptosBasicos {
 		
 		/**
 		 * LA REGLA QUE NO DEBES OLVIDAR EN QUE LAS ASIGNACIONES DEBEN SER DEL MISMO TIPO 
-		 *********************/
+		 */
 		
 		//operadores importantes division
 		
 		
 		/* OJO AQUI ESTE ES EL RESUMEN 
-		 * Nota: la division realiza de acuerdo al tipo de datos del dividendo/Divisor y el resultado cociente recien se asigna o(conversion implicita)
+		 * Nota: la division realiza de acuerdo al tipo de datos del dividendo(d)/Divisor(D) y este resultado cociente(ya sea del tipo d o D) recien se asigna o(conversion implicita)
 		 * al tipo de variable que desear asignar 
 		 * NOTA DIVISION DE ENTEROS (BYTE, SHORT, INT, LONG ) COMO EN ARITMETICA TODOS SON ENTEROS 
 		 * NOTA DIVISION EN DECIMALES( FLOAT, DOUBLE) COMO EN ARITMETICA TODOS SON DECIMALES
@@ -77,7 +77,7 @@ public class Vid1_10_ConceptosBasicos {
 		final int h=10;
 		      int k=10;
 		      //h=h+k; esto es un error pq h ya no puede cambiar de valor
-		
+		  
 		
 	}
 
