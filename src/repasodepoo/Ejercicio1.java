@@ -1,5 +1,5 @@
 package repasodepoo;
-
+//Ejercicio 1: mostrar un Hola mundo
 public class Ejercicio1 {
 	//1 forma con POO
 	public void mostrarmensaje() {
@@ -19,7 +19,7 @@ public class Ejercicio1 {
 	}
 
 }
-//N. una clase se pueda instanciar dentro de la misma clase
+//N. una clase se pueda instanciar dentro de la misma clase, por eso dentro del metodo main de la misma clase , se esta instanciando la misma clase
 //N. El método main es static: Esto significa que existe de forma independiente a cualquier objeto
 //N. los metodos static pertenecen a la clase y no a los objetos
 /*N. los metodos static son cargados directamente en la memoria desde el primer segundo
