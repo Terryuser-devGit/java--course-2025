@@ -14,8 +14,6 @@ public class E08_ConvertirKmAMillas {
 		System.out.printf("%.2f km convertido en millas es: %.2f millas%n"
 						,numeroIngresado,convertirKmAMillas(numeroIngresado));
 		teclado.close();
-		
-
 	}
 
 }
