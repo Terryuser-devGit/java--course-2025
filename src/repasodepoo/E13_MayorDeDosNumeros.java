@@ -19,5 +19,4 @@ public class E13_MayorDeDosNumeros {
 		System.out.println("el mayor de los numeros es :"+mayorDeDosNumeros(numero1,numero2));
 		teclado.close();
 	}
-
 }

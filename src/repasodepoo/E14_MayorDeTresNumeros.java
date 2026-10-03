@@ -16,8 +16,7 @@ public class E14_MayorDeTresNumeros {
 				return numero3;
 			}
 		}
-		else //if(numero1<numero2) {
-				if (numero2<numero3) {
+		else if (numero2<numero3) {
 					return numero3;
 				}
 				else {//numero2>numero3
